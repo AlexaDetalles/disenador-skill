@@ -1,0 +1,13 @@
+{
+  "name": "disenador-skills",
+  "owner": {
+    "name": "Isaac / KROMBYTE"
+  },
+  "plugins": [
+    {
+      "name": "disenador",
+      "source": "./",
+      "description": "Estudio creativo con dirección visual, especialistas selectivos y control de calidad."
+    }
+  ]
+}

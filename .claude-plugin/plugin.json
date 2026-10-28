@@ -1,0 +1,10 @@
+{
+  "name": "disenador",
+  "version": "1.0.0",
+  "description": "Estudio creativo con dirección visual, especialistas selectivos y control de calidad.",
+  "author": {
+    "name": "Isaac / KROMBYTE"
+  },
+  "license": "MIT",
+  "skills": "./skills/"
+}
