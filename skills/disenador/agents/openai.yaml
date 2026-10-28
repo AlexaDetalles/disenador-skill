@@ -1,0 +1,4 @@
+interface:
+  display_name: "DISEÑADOR"
+  short_description: "Estudio creativo con dirección visual, especialistas selectivos y control de calidad."
+  default_prompt: "Usa $disenador para completar la tarea y verificar el resultado."
